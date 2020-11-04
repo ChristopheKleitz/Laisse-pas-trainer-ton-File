@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ee3924f-23d7-4787-bd02-df3bd32a9d67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Dev/strasbourg-php-2009-project2-strasgite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/Simple - MVC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/captain-definition" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/config/db.php.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/config/debug.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/docker-entry.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/grumphp.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/phpcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/phpmd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/phpstan.neon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/public/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/public/assets/images/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/simple-mvc.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/Controller/AbstractController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/Controller/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/Controller/ItemController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/Model/AbstractManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/Model/Connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/Model/ItemManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/View/Item/_form.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/View/Item/add.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/View/Item/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/View/Item/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/View/Item/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2 Stras'Gite/Master/strasbourg-php-2009-project2-strasgite/src/routing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projet 2/Bootstrap/src/layout.html.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jjpm5OHvrZaKNnXA5bi0aa7N71" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ee3924f-23d7-4787-bd02-df3bd32a9d67" name="Default Changelist" comment="" />
+      <created>1604327510494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604327510494</updated>
+      <workItem from="1604327511592" duration="5851000" />
+      <workItem from="1604388352404" duration="2239000" />
+      <workItem from="1604394159555" duration="10294000" />
+      <workItem from="1604418604702" duration="1187000" />
+      <workItem from="1604473648911" duration="3254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="363" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604409951521">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="580" y="363" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604409951521" />
+    <state x="877" y="634" width="399" height="156" key="NewPhpFileDialog" timestamp="1604327525304">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="877" y="634" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604327525304" />
+  </component>
+</project>
